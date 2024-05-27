@@ -14,7 +14,7 @@ Make sure you have installed all of the following prerequisites on your developm
 - Java JDK 17 or higher
 - Gradle
 - Docker
-- 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -46,6 +46,10 @@ After starting the database, you can run the application using Gradle:
 
 This will start the Spring Boot application on your local machine.
 
+
+## Instructions
+
+For detailed instructions on how to use this application, please refer to the [Instruction.md](Instruction.md).
 
 ## License
 
